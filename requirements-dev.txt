@@ -1,0 +1,7 @@
+-r requirements.txt
+
+# lint/format/types
+black==19.10b0
+flake8==3.7.8
+pytype==2021.2.9
+pre-commit
